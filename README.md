@@ -1,6 +1,6 @@
 #  Hi, I’m @PyGamer0
 - I know Python and a little bit of Java, C++, C, Javascript.
-- I also know APL and a bit of BQN, J, K.
+- I also know k, APL and a bit of BQN and very little J.
 - I like esolangs and code golfing.
 
 #### Pronouns 
