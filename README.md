@@ -1,7 +1,8 @@
-#  Hi, I’m ~~@PyGamer0~~ @zoomlogo
+#  Hi, I’m @zoomlogo
 - I know Python and a little bit of Java, C++, C, Javascript.
 - I also know k, APL and a bit of BQN and very little J.
 - I like esolangs and code golfing.
+$$\frac d{dx}e^x=e^x$$
 
 #### Pronouns 
 he, him
