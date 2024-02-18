@@ -5,6 +5,7 @@ he, him
 ### Stuff I like / use
 - APL
 - C/C++
+- Iosevka (favourite font)
 - Jelly
 - Mathematics (who doesn't like maths)
 - ngn/k (favourite language)
