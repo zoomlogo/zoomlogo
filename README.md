@@ -1,6 +1,4 @@
 #  Hi, I’m @zoomlogo
-#### Pronouns
-he, him
 
 ### Stuff I like / use
 - APL
@@ -14,10 +12,10 @@ he, him
 - Rust
 - Vim (daily driver)
 - Vyxal (favorite esolang :P)
+- Anything low level.
 
-Anything low level also seems to catch my attention.
 
-> One day I shall complete flax.
+> One day I shall complete [flax](https://github.com/zoomlogo/flax).
 > - zoomlogo, 2024.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoomlogo&layout=compact&theme=gruvbox)
