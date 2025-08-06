@@ -1,17 +1,17 @@
 #  Hi, I’m @zoomlogo
 
 ### Stuff I like / use
-- APL
+- [APL](https://tryapl.org/)
 - C/C++
-- Iosevka (favourite font)
-- Jelly
+- [Iosevka](https://typeof.net/Iosevka/) (favourite font)
+- [Jelly](https://github.com/DennisMitchell/jellylanguage)
 - Mathematics (who doesn't like maths)
-- ngn/k (favourite language)
+- [ngn/k](https://codeberg.org/growler/k) (favourite language)
 - Physics :p
 - Python
 - Rust
-- Vim (daily driver)
-- Vyxal (favorite esolang :P)
+- [Vim](https://www.vim.org/) (daily driver)
+- [Vyxal](https://github.com/Vyxal/Vyxal) (favorite esolang :P)
 - Anything low level.
 
 
