@@ -3,7 +3,7 @@
 
 ### Stuff I like / use
 - [APL](https://tryapl.org/)
-- [C/C++](https://cppreference.org)
+- [C/C++](https://cppreference.com)
 - [Iosevka](https://typeof.net/Iosevka/) (favourite font)
 - [Jelly](https://github.com/DennisMitchell/jellylanguage)
 - Mathematics (who doesn't like maths)
