@@ -1,8 +1,9 @@
 #  Hi, I’m @zoomlogo
+[Codeberg account.](https://codeberg.org/zoomlogo)
 
 ### Stuff I like / use
 - [APL](https://tryapl.org/)
-- C/C++
+- [C/C++](https://cppreference.org)
 - [Iosevka](https://typeof.net/Iosevka/) (favourite font)
 - [Jelly](https://github.com/DennisMitchell/jellylanguage)
 - Mathematics (who doesn't like maths)
@@ -16,7 +17,7 @@
 
 
 > One day I shall complete [flax](https://github.com/zoomlogo/flax).
-> - zoomlogo, 2024.
+> - zoomlogo, 2022.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoomlogo&layout=compact&theme=gruvbox)
 
