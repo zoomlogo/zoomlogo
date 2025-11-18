@@ -1,4 +1,5 @@
 #  Hi, I’m [zoomlogo](https://codeberg.org/zoomlogo "Codeberg account.")
+I am mainly interested in electronics, and program primarily as a hobby. 
 
 ### Stuff I like and/or use.
 [APL](https://tryapl.org/ "Best Array Language."), [C/C++](https://cppreference.com "C > C++."), [Iosevka](https://typeof.net/Iosevka/ "Favourite font."), [Jelly](https://github.com/DennisMitchell/jellylanguage "Best code-golfing language there is."),
